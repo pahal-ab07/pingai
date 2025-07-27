@@ -179,7 +179,7 @@ export const SignInView = () => {
                                     </Button>
                                 </div>
                                 <div className="text-center text-sm">
-                                    Don't have an account? <Link href="/sign-up" className="underline underline-offset-4">
+                                    Don`&apos;`t have an account? <Link href="/sign-up" className="underline underline-offset-4">
                                         Sign Up
                                     </Link>
                                 </div>
