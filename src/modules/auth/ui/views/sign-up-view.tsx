@@ -106,7 +106,7 @@ export const SignUpView = () => {
                             <div className="flex flex-col gap-6">
                                 <div className="flex flex-col items-center text-center">
                                     <h1 className="text-2xl font-bold">
-                                        Let's Get Started
+                                        Let`&apos;`s Get Started
                                     </h1>
                                     <p className="text-muted-foreground text-balance">
                                         Create Your Account
